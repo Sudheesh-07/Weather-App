@@ -11,11 +11,11 @@ To use this app, you need to provide your own API key for the OpenWeather API. F
 3. Copy the contents of `.env.example` into `.env`.
 4. Replace `YOUR_API_KEY_HERE` with your actual OpenWeather API key in the `.env` file.
 
-Alternatively, you can use the default API key provided by the repository owner. If you choose this option, you don't need to create a `.env` file.
+
 
 ## Running the App
 
-Once you have set up your API key (or decided to use the default), you can run the app on your device or emulator.
+Once you have set up your API key, you can run the app on your device or emulator.
 
 
 ## Getting Started
